@@ -15,7 +15,8 @@
       </task-names>
       <task-args/>
       <task-jvm-args/>
-    </task>
+    </task> 
+    <task>
     <task>
       <display-name>build</display-name>
       <non-blocking>yes</non-blocking>
